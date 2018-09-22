@@ -1,0 +1,35 @@
+_repo: Le-reve-et-la-vie-Les-filles-du-feu-La-boheme-galante_55554
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nerval, Gérard de
+    aliases:
+    - Puycousin, Édouard de
+    - Beuglant
+    - Puycousin, Edouard de
+    - Nerval, Gerard de
+    - Cadet-Roussel
+    - Labrunie, Gérard
+    birthdate: 1808
+    deathdate: 1855
+    gutenberg_agent_id: '6559'
+    url: http://www.gutenberg.org/2009/agents/6559
+    wikipedia: http://en.wikipedia.org/wiki/Gérard_de_Nerval
+description: ''
+gutenberg_bookshelf:
+- FR Biographie, Mémoires, Journal intime, Correspondance
+- FR Littérature
+gutenberg_issued: '2017-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55554'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Le rêve et la vie
+
+  Les filles du feu - La bohème galante'
+url: http://www.gutenberg.org/ebooks/55554
